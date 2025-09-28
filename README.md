@@ -4,7 +4,6 @@
 # 👋 Olá, eu sou o Luís!  
 
 💻 Desenvolvedor focado em **Web** e **Back-end**, aprendendo e criando soluções com **JavaScript, Node.js e React**.  
-🚀 Fundador da startup **Oryon** e criador de projetos como **RiseLAB** e **TaskMaster**.  
 🎯 Objetivo: transformar ideias em produtos digitais com impacto real.  
 
 
