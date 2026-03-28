@@ -1,13 +1,14 @@
 <!-- Banner ou imagem de capa -->
 ![Banner](https://i.ibb.co/YZnZK5h/github-banner.png)
 
-# 👋 Olá, eu sou o Luís!  
+# 👋 Olá, eu sou o Luís  
 
-💻 Desenvolvedor focado em **Web** e **Back-end**, aprendendo e criando soluções com **JavaScript, Node.js e React**.  
-🎯 Objetivo: transformar ideias em produtos digitais com impacto real.  
+💻 Desenvolvedor com foco em **Web** e **Back-end**, dedicado à construção de aplicações escaláveis e bem estruturadas utilizando **JavaScript, Node.js e React**.  
+🚀 Apaixonado por tecnologia e aprendizado contínuo, estou sempre evoluindo minhas habilidades para entregar soluções eficientes e modernas.  
+🎯 **Objetivo:** transformar ideias em produtos digitais com impacto real.  
 
 
-## 🔧 Tecnologias & Ferramentas  
+## 🛠️ Tecnologias & Ferramentas  
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
@@ -16,7 +17,7 @@
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=fff)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=fff)
 
 
 ## 📊 Estatísticas  
@@ -26,14 +27,17 @@
 
 
 ## 🚀 Projetos em Destaque  
- 
-- ✅ [**TaskMaster**](https://github.com/luisfidel9/taskmaster) – Sistema de gerenciamento de tarefas com React + TS.    
+
+- 🔹 [**TaskMaster**](https://github.com/luisfidel9/taskmaster)  
+  Sistema de gerenciamento de tarefas desenvolvido com **React + TypeScript**, focado em organização, produtividade e experiência do usuário.  
 
 
-## 📬 Vamos conversar!  
+## 📬 Contato  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://linkedin.com/in/luis-baptista-fidel-bb2594292)  
-[![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff)](mailto:fidelluisbaptista@gmail.com)    
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff)](mailto:fidelluisbaptista@gmail.com)  
 
 
-✨ *Obrigado por visitar meu perfil! Explore meus repositórios e vamos construir algo incrível juntos.* ✨
+---
+
+✨ *Obrigado por visitar meu perfil. Fique à vontade para explorar meus projetos e acompanhar minha evolução na área de tecnologia.*  
